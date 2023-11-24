@@ -6,7 +6,8 @@
 
 
 
-![logo2](https://github.com/andersonbraga/eAgendaMedicalCare/assets/11825153/bff2c793-bcae-4e97-a45f-96ac773e61d3)
+
+![logo2](https://github.com/andersonbraga/ReadMe/assets/11825153/9888018d-7065-4697-b9ca-e839a545561c)
 
 
 
@@ -114,7 +115,8 @@ Para uma demonstração mais interativa, aqui está um GIF mostrando o processo 
 :
 
 
-![inserirmedico](https://github.com/andersonbraga/eAgendaMedicalCare/assets/11825153/cb3b4961-b650-4105-a1a5-99f7bb1c4395)
+
+![inserirmedico](https://github.com/andersonbraga/ReadMe/assets/11825153/7c15bcd2-0229-428c-8cef-c1db134f443b)
 
 
 
