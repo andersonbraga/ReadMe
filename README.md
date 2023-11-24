@@ -31,7 +31,7 @@ O e-Agenda Médica é uma solução web inovadora para a gestão de cronogramas 
 
 ## Sobre o Projeto
 
-![sistema](https://github.com/andersonbraga/ReadMe/assets/11825153/4746023b-21f7-4b66-b6c0-503efdd31db0)
+
 
 
 
